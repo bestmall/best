@@ -1,0 +1,141 @@
+﻿* {
+    margin: 0 auto;
+    padding: 0 ;
+    font-family: Verdana;
+    font-size: 13px;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.itemText {
+    font-family: Verdana;
+    font-size: 13px;
+}
+
+
+.PS {
+    color: #ff0000;
+    margin-right: 5px;
+    font-size: 13px;
+}
+
+span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.TableBase {
+    margin: 0 auto;
+    padding: 0 ;
+}
+
+label.error {
+    color: #ff0000;
+    font-size: 12px;
+}
+
+#bodybase {
+    height: auto;
+    width: 880px;
+}
+
+
+
+#comp_addr {
+    width: 230px;
+}
+
+.auto-style1 {
+    margin-right: 5px;
+    height: 28px;
+}
+
+#comp_url {
+    width: 659px;
+}
+
+.auto-style2 {
+    margin-right: 5px;
+    width: 15%;
+}
+
+.auto-style3 {
+    margin-right: 5px;
+    width: 31%;
+}
+
+#CCo_Extn {
+    width: 47px;
+}
+
+#CGI_Tv, #ch_web, #ch_store {
+    width: 590px;
+}
+
+.auto-style5 {
+    margin-right: 5px;
+    height: 28px;
+}
+
+.auto-style6 {
+    width: 55%;
+}
+
+.auto-style7 {
+    margin-right: 5px;
+    width: 55%;
+}
+
+.auto-style8 {
+    margin-right: 5px;
+    height: 28px;
+}
+
+.auto-style9 {
+    width: 819px;
+}
+
+.auto-style10 {
+    width: 808px;
+}
+
+.auto-style13 {
+    margin-right: 5px;
+    width: 13%;
+}
+
+.auto-style14 {
+    margin-right: 5px;
+    width: 33%;
+}
+
+.auto-style15 {
+    width: 27%;
+    margin-right: 5px;
+}
+
+td {
+    height: 28px;
+}
+        .auto-style16 {
+            margin-right: 5px;
+        }
+        .auto-style17 {
+            margin-right: 5px;
+            height: 28px;
+            width: 50%;
+        }
+        .auto-style18 {
+            width: 50%;
+        }
+        .auto-style19 {
+            margin-right: 5px;
+            width: 50%;
+        }
